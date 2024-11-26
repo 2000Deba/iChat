@@ -9,6 +9,7 @@
   "author": "Deba",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.21.1",
     "socket.io": "^4.8.1"
   }
 }
