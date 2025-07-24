@@ -9,4 +9,6 @@ Each and every user will be provided a unique and different id.
 <br>
 So just enter your name and enjoy it with your friends and family.
 <br>
+Thank you.
+<br>
 You can reach site at https://ichat-vtpa.onrender.com/
